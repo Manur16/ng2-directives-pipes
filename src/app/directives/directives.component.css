@@ -1,0 +1,13 @@
+div{
+    width: 25%;
+    display: inline-block;
+}
+
+input{
+    width: 75%;
+}
+
+label{
+    width: 100%;
+}
+
